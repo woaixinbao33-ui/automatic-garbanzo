@@ -1,0 +1,6 @@
+unsloth
+gradio
+fastapi
+uvicorn
+transformers
+torch
